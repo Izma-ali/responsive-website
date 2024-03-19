@@ -459,6 +459,9 @@ h2{
     display: flex;
     flex-wrap: wrap;
 }
+#chromrdiv3{
+    margin-top: 20px;
+}
 .paraques{width: 100%;}
 .faqsdiv{
     width: 100%;
@@ -591,6 +594,9 @@ h2{
     .chromeouter{
         display: flex;
         flex-wrap: wrap;
+    }
+    #chromrdiv3{
+        margin-top: 0px;
     }
     .lastfooter{
         display: flex;
