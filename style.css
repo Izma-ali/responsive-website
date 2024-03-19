@@ -364,11 +364,16 @@ ul{
    header{
     width: 100%;
    }
+   .headerimg{
+    padding-left: 8px;
+   }
    .header{
     display: flex;
     justify-content: space-around;
     margin-top: 35px;
     width: 100%;
+    padding: 0px 20px;
+    background-color: #5267DF;
    }
    .img{
     width: 70%;
@@ -397,6 +402,7 @@ h2{
 }
 .icon{
     display: block;
+    padding-right: 10px;
    }
 .featuresdiv{
     margin: 0;
@@ -505,6 +511,7 @@ h2{
         align-items: center;
         margin-top: 35px;
         width: 100%;
+        padding: 0px 20px;
        }
        .img{
         width: 483px;
